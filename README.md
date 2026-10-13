@@ -41,7 +41,7 @@ Criar uma página para explorar postagens, exibindo autor, conteúdo e quantidad
 - Izabela Lima Oliveira [@Izabelaxsl](https://github.com/Izabelaxsl)
 - Izabella Bastos Avelar
 - Jean Paul Rodrigues Flauzino Filho [@jeanrodrigues-ai](https://github.com/jeanrodrigues-ai)
-- Joseane Souza Nunes
+- Joseane Souza Nunes [@joseanenunes-commits](https://github.com/joseanenunes-commits)
 - Lavínya Karolinne Costa Oliveira [@LavinyaKarol](https://github.com/LavinyaKarol)
 - Luís Arthur Morais Belo
 - Luíz Otávio Oliveira Silva
